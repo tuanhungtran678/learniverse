@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Apple nghĩa là gì?",
+        "answers": [
+            "Táo",
+            "Cam",
+            "Chuối",
+            "Nho"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Dog nghĩa là gì?",
+        "answers": [
+            "Mèo",
+            "Chó",
+            "Cá",
+            "Gà"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Hello nghĩa là gì?",
+        "answers": [
+            "Tạm biệt",
+            "Xin chào",
+            "Cảm ơn",
+            "Xin lỗi"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Book nghĩa là gì?",
+        "answers": [
+            "Sách",
+            "Bút",
+            "Bàn",
+            "Ghế"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Car nghĩa là gì?",
+        "answers": [
+            "Xe đạp",
+            "Xe máy",
+            "Ô tô",
+            "Xe buýt"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Water nghĩa là gì?",
+        "answers": [
+            "Nước",
+            "Sữa",
+            "Nước ngọt",
+            "Rượu"
+        ],
+        "correct": 0
+    }
+]
